@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+holidays==0.38
+python-telegram-bot==20.7
+requests==2.31.0
+APScheduler==3.10.4
